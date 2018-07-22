@@ -1,0 +1,20 @@
+.author-sidebar{
+ filter: grayscale(25%);
+}
+
+.author-sidebar:hover{
+filter: grayscale(0%);
+}
+
+
+.author-img{
+ filter: grayscale(50%);
+}
+
+.author-img:hover{
+filter: grayscale(0%);
+}
+
+.a:hover{
+ text-decoration: none;
+}

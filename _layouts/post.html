@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+{% include minimahead.html %}
+<body>
+{% include navbar.html %}
+<div class="row grey lighten-5 section" >
+
+    <div class="container flow-text">
+
+    <div class="col  section">
+        <h3>{{page.title}}</h3>
+          <span class="grey-text ">
+            Date Posted: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                {{ page.date | date: date_format }}
+            </time>
+         </span>
+        {{content}}
+
+
+        {%- if site.disqus.shortname -%}
+        {%- include disqus_comments.html -%}
+        {%- endif -%}
+
+    </div>
+
+    </div>
+</div>
+
+
+<!--JavaScript at end of body for optimized loading-->
+<script type="text/javascript" src="/js/materialize.min.js"></script>
+<script type="text/javascript">
+         M.AutoInit();
+</script>
+</body>
+</html>

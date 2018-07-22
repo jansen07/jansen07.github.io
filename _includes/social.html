@@ -1,0 +1,11 @@
+{%- if site.author.facebook -%}
+    <a href="{{ site.author.facebook}}">
+        <svg width="1rem" height="1rem" class="svg-icon blue-text">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}">
+            </use>
+        </svg>
+        <span>
+        {{ site.author.name| escape }}
+           </span>
+    </a>
+{%- endif -%}
