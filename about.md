@@ -3,15 +3,34 @@ layout: default
 title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="container section">
+<p class="flow-text grey-text text-darken-2">
+Jansen<br>
+Soft hearted, clever, student, nature-lover.<br>
+Son of God.<br>
+Who love music,poem,learning technologies and taking risks.<br>
+Who hate spoon feeding, lazy, grumbler but love to teach the willing.<br>
+Who feared world wars, and feared God.<br>
+Who thrive to master the art of programming.<br>
+Who wants to travel the world for adventure and enjoy life.<br>
+Born in Camarines Sur and living in Marikina City.	<br>
+Goyena<br>
+</p>
+</div>
+<div class="parallax-container">
+	<div class="parallax"><img src="/assets/img/bike_mountain.jpg"></div>
+</div>
+<div class="container center">
+<h3>Influencer . Blogger . Photographer . Teacher</h3>
+<h4>WANNABE</h4>
+</div>
+<div class="parallax-container">
+	<div class="parallax"><img src="/assets/img/bgc.jpg"></div>
+</div>
+<div class="container flow-text grey-text text-darken-3 center">
+<h4>1 Cor 9:24-25</h4>
+<p >
+<span style="font-size:1rem">24</span> Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize. <span style="font-size:1rem">25</span> Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever. 
+</p>
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
