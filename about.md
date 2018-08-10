@@ -36,7 +36,8 @@ Goyena<br>
 </p>
 </div>
 <div class="container row">
-	<div class="col l6 m6 s12">
+<div class="col s12 m6">
+	<div class="col s12">
 		<div class="card">
 	        <div class="card-image">
 	          <img alt="A white cup with tag name Jansen" class="responsive-img" src="/assets/img/about/optimized_cup.jpg">
@@ -46,7 +47,9 @@ Goyena<br>
 	        </div>
 	    </div>
 	</div>
-	<div class="col l6 m6 s12">
+</div>
+<div class="col s12 m6">
+		<div class="col s12">
 		<div class="card">
 	        <div class="card-image">
 	          <img alt="A white cup with tag name Jansen" class="responsive-img" src="/assets/img/about/nederlyn.jpg">
@@ -56,7 +59,7 @@ Goyena<br>
 	        </div>
 	    </div>
 	</div>
-
+</div>
 </div>
 
 
