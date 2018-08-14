@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Review on 5 in 1 lens for mobile photography bought from lazada"
-date:   2018-07-13 13:45:49 +0800
+title:  "Review on 5 in 1 Lens for Mobile Photography bought from Lazada"
+date:   2018-08-13 13:45:49 +0800
 categories: review product mobile photography
 ---
 
