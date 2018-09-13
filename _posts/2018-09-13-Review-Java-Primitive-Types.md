@@ -34,6 +34,16 @@ double d = 123.2;
 ```
 
 cast or add litterals if initializing
+<br>
 
+Primitive types assign to null will give compile error
+
+```java
+int num=null;
+long distance=null;
+float money=null;
+double savings=null;
+
+```
 
 
