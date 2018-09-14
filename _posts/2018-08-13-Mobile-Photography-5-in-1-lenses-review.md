@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Review on 5 in 1 Lens for Mobile Photography bought from Lazada"
+description: "A review on Mobile Photography 5 in 1 lens"
 date:   2018-08-13 13:45:49 +0800
 categories: review product mobile photography
 ---
