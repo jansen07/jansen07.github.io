@@ -16,8 +16,7 @@ categories: diary learnings
 ### *The Leader*
 One time I've read message of a good leader saying  like.  
 
-"Good morning all , I hope everyone is ok.  
-Your heads will be reaching out to you this morning as I’d like to ensure everyone is ok.  
+"....  Your ... heads will be reaching out to you ...  as I’d like to ensure everyone is ok.  
 ......"  
   
 For me I think it's a good characteristics of a leader.  
