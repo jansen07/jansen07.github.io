@@ -18,7 +18,7 @@ It will make you feel that there are lots of mule developers out there just like
 <br>
 In this blog I will share to you my experiences on the event happened at WhiteSky Labs last September 20,2018  
 <br>
-Last night(September 20) was a great experience. We learned a lot on what's new on Mule 4 and their advantages. The attendees share their ideas on advantages on using mule 4 and what are the breaking changes that you have to watchout for.  
+Last night(September 20) was a great experience. We learned a lot on what's new on Mule 4 and their advantages. The attendees shared their ideas on advantages on using mule 4 and what are the breaking changes that you have to watchout for.  
 <div class="row">
 <div class="col m6 s12">
 <div class="card hoverable">
@@ -91,7 +91,7 @@ but that's okay. all mulesoft attendees got their free Mule Shirts!
 They also gave 2 Mule Squishy to the first timer who won the game Mule Genius ( Pinoy Henyo )
 I participated on that game though 😂 it was fun. 
 
-Checkout the video on this our group page <a href="https://www.facebook.com/groups/194412074532129" target="_blank">Mule PH</a> 😊
+Checkout the video on our group page <a href="https://www.facebook.com/groups/194412074532129" target="_blank">Mule PH</a> 😊
 
 <div class="row">
 <div class="col s12">
