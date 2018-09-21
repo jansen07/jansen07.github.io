@@ -34,8 +34,8 @@ Last night(September 20) was a great experience. We learned a lot on what's new 
 </div>
 
 <div class="col m6 s12">
-<div class="card">
-<div class="card-image hoverable">
+<div class="card hoverable">
+<div class="card-image">
 <img class="responsive-img" src="/assets/img/posts/review/mulesoft/meetup2/enrico_explains_global_function.jpg" alt="Ryan Anthony Andal discussing about mule 4 advantages and things to watchout">
 <span class="card-title"> **Enrico Rafols Dela Cruz** explains</span>
 </div>
@@ -54,8 +54,8 @@ One of the examples that I like is the dataweave 2.0 where you can now call java
 <div class="row">
 <div class="col s12">
 <div class="col l8 offset-l2">
-<div class="card">
-<div class="card-image hoverable">
+<div class="card hoverable">
+<div class="card-image">
 <img class="responsive-img" src="/assets/img/posts/review/mulesoft/meetup2/new_main_expression_language.jpg" alt="Ryan Anthony Andal discussing about mule 4 advantages and things to watchout">
 </div>
 <div class="card-content">
@@ -76,8 +76,8 @@ but that's okay. all mulesoft attendees got their free Mule Shirts!
 <div class="row">
 <div class="col s12">
 <div class="col l8 offset-l2">
-<div class="card">
-<div class="card-image hoverable">
+<div class="card hoverable">
+<div class="card-image">
 <img class="responsive-img" src="/assets/img/posts/review/mulesoft/meetup2/mule_free_shirts.jpg" alt="Mule Shirts">
 <span class="card-title">M-Shield T-Shirt</span>
 </div>
@@ -96,8 +96,8 @@ Checkout the video on this our group page <a href="https://www.facebook.com/grou
 <div class="row">
 <div class="col s12">
 <div class="col l8 offset-l2">
-<div class="card">
-<div class="card-image hoverable">
+<div class="card hoverable">
+<div class="card-image">
 <img class="responsive-img" src="/assets/img/posts/review/mulesoft/meetup2/me_and_workmate.jpg" alt="Mule Shirts">
 <span class="card-title">Mule Swag</span>
 </div>
