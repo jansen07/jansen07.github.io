@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manila Mulesoft Meetup #2"
-description: "My personnal experience on the 2nd Manila Mulesoft Meetup"
+description: "My personal experience on the 2nd Manila Mulesoft Meetup"
 date:   2018-09-21 08:00:00 +0800
 categories: review mulesoft meetup
 ---
