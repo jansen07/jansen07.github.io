@@ -7,7 +7,7 @@ categories: review mulesoft meetup
 ---
 
 {::options parse_block_html="true" /}
-<div class="" style="font-size:1.1rem">
+<div class="col" style="font-size:1.1rem">
 #### Topic: Mule 4
 
 It was my second time attending mulesoft meetup now and the experience is getting more exciting.   
