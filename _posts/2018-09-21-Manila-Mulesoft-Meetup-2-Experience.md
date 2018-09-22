@@ -7,7 +7,7 @@ categories: review mulesoft meetup
 ---
 
 {::options parse_block_html="true" /}
-<div class="col" style="font-size:1.1rem">
+<div style="font-size:1.1rem">
 #### Topic: Mule 4
 
 It was my second time attending mulesoft meetup now and the experience is getting more exciting.   
@@ -24,7 +24,6 @@ Last night(September 20) was a great experience. We learned a lot on what's new 
 <div class="card hoverable">
 <div class="card-image">
 <img class="responsive-img" src="/assets/img/posts/review/mulesoft/meetup2/ryan_andal_talking_mule4_advantages.jpg" alt="Ryan Anthony Andal discussing about mule 4 advantages and things to watchout">
-<span class="card-title">Ryan Anthony talking about Mule 4 advantages</span>
 </div>
 <div class="card-content">
   <p>The Speaker asking attendees about their experiences with mule 4,its advantages and new features</p>
@@ -37,7 +36,6 @@ Last night(September 20) was a great experience. We learned a lot on what's new 
 <div class="card hoverable">
 <div class="card-image">
 <img class="responsive-img" src="/assets/img/posts/review/mulesoft/meetup2/enrico_explains_global_function.jpg" alt="Ryan Anthony Andal discussing about mule 4 advantages and things to watchout">
-<span class="card-title"> **Enrico Rafols Dela Cruz** explains</span>
 </div>
 <div class="card-content">
   <p>**Enrico Rafols Dela Cruz** *(top MuleSoft community contributors (August ’18))* <br> Explaining about global functions and how we can leverage this feature</p>
@@ -108,6 +106,7 @@ Checkout the video on our group page <a href="https://www.facebook.com/groups/19
 </div>
 </div>
 
+<div class="col">
 If you are a mulesoft fan or Mulesoft Developer here in Manila,
 I encourage you to join Mulesoft Meetups. 
 
@@ -125,7 +124,7 @@ Photo Credits to WhiteSky Labs.
 Thanks for reading.
 What's your thoughts?
 comment on the section below.
-
+</div>
 
 
 </div>
