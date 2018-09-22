@@ -48,18 +48,6 @@ Goyena<br>
 	    </div>
 	</div>
 </div>
-<div class="col s12 m6">
-		<div class="col s12">
-		<div class="card">
-	        <div class="card-image">
-	          <img alt="A white cup with tag name Jansen" class="responsive-img" src="/assets/img/about/nederlyn.jpg">
-	        </div>
-	        <div class="card-content">
-	          <p>Her name is Nederlyn Gallora and she is my girlfriend. Sya ay napaka masayahing tao, palagi syang naka smile and higit sa lahat mabait. proud boyfie here :)</p>
-	        </div>
-	    </div>
-	</div>
-</div>
 </div>
 
 
