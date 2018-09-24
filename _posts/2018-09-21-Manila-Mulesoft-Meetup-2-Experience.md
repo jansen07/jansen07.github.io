@@ -10,15 +10,15 @@ categories: review mulesoft meetup
 <div style="font-size:1.1rem">
 #### Topic: Mule 4
 
-It was my second time attending mulesoft meetup now and the experience is getting more exciting.   
-Attending this meetup boosts my hype and enthusiasm on learning and mastering this technology.  
+It was my second time attending Mulesoft meetup now and the experience is getting more exciting.   
+Attending this meetup boosts my hype and enthusiasm in learning and mastering this technology.  
 It will make you feel that there are lots of mule developers out there just like me who integrates cloud services.  
 
 
 <br>
 In this blog I will share to you my experiences on the event happened at WhiteSky Labs last September 20,2018  
 <br>
-Last night(September 20) was a great experience. We learned a lot on what's new on Mule 4 and their advantages. The attendees shared their ideas on advantages on using mule 4 and what are the breaking changes that you have to watchout for.  
+Last night(September 20) was a great experience. We learned a lot on what's new in Mule 4 and their advantages. The attendees shared their ideas of advantages in using Mule 4 and what are the breaking changes that you have to watchout for.  
 <div class="row">
 <div class="col m6 s12">
 <div class="card hoverable">
@@ -47,7 +47,7 @@ Last night(September 20) was a great experience. We learned a lot on what's new 
 
 
 </div>
-The speaker showed us the features and changes on mule 4 and their syntax.
+The speaker showed us the features and changes in Mule 4 and their syntax.
 One of the examples that I like is the dataweave 2.0 where you can now call java methods inside dataweave.
 <div class="row">
 <div class="col s12">
@@ -66,10 +66,10 @@ One of the examples that I like is the dataweave 2.0 where you can now call java
 
 
 Muleys also received exciting prices during that day.
-The organizers gave 2 vouchers to those who've answered the questions correctly
-These  vouchers can be used for mulesoft training or certification.
+The organizers gave 2 vouchers to those who've answered the questions correctly.
+These  vouchers can be used for MuleSoft training or certification.
 I really hoped that my name was drawn out of that box though ( 😂 )
-but that's okay. all mulesoft attendees got their free Mule Shirts!
+but that's okay. All MuleSoft attendees got their free Mule Shirts!
 
 <div class="row">
 <div class="col s12">
