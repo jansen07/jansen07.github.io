@@ -22,7 +22,7 @@ Goyena<br>
 </p>
 </div>
 <div class="parallax-container">
-	<div class="parallax"><img src="/assets/img/about/bike_mountain.jpg"></div>
+	<div class="parallax"><img src="/assets/img/about/love_jsg.jpg"></div>
 </div>
 <div class="container center">
 <h3>Influencer . Blogger . Photographer . Teacher</h3>
