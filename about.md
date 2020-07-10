@@ -4,8 +4,8 @@ title: About
 ---
 
 <div class="img-container">
-    <img src="assets/img/home_bg.jpg" style="width: 100%">
-    <div class="bottom-left grey-text text-darken-4">
+    <img src="assets/img/home_bg.jpeg" style="width: 100%">
+    <div class="teal lighten-4 bottom-left grey-text text-darken-4">
         <p class="flow-text">
 “Photography is a way of feeling, of touching, of loving. What you have caught on film is captured forever… It remembers little things, long after you have forgotten everything.”
 — Aaron Siskind</p>
