@@ -65,3 +65,27 @@ filter: grayscale(0%);
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.progress {
+	height: 4px;
+	border-radius: 0;
+	box-shadow: none;
+	background: #c8c8c8;
+}
+.progress .progress-bar, .progress .progress-bar-default {
+	background-color: #0277bd;
+}
+.progress-bar {
+	box-shadow: none;
+	float: left;
+	width: 0;
+	height: 100%;
+	font-size: 12px;
+	line-height: 20px;
+	color: #fff;
+	text-align: center;
+	background-color: #337ab7;
+	-webkit-transition: width .6s ease;
+	-o-transition: width .6s ease;
+	transition: width .6s ease;
+}
