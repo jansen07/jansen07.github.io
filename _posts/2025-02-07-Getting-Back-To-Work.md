@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting back as a developer from Technical Lead/Management"
 description: "A blog on how am I gonna be able to go back to pure development from being in management"
-date:   2024-02-07 9:49:00 +0800
+date:   2025-02-07 9:49:00 +0800
 categories: Development
 ---
 
