@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 disqus:
     shortname: https-www-jansengoyena-xyz
 # Exclude from processing.
