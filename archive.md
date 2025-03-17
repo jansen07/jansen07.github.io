@@ -6,20 +6,20 @@ title: Archives
 <div class="row section">
     <div class="col s12 m9">
       <div class="container">
-        <h3>{{page.title}}</h3>
+        <h3 class="center">{{page.title}}</h3>
         <hr>
-        <ul>
+        <ul class="collection with-header">
           {% for post in site.posts %}
             {% unless post.next %}
-              <h5 class="scrollspy" id="year{{ post.date | date: '%Y' }}">{{ post.date | date: '%Y' }}</h5>
+              <li class="collection-header"><h5 class="scrollspy center" id="year{{ post.date | date: '%Y' }}">{{ post.date | date: '%Y' }}</h5></li>
             {% else %}
               {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
               {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
               {% if year != nyear %}
-                <h5 class="scrollspy" id="year{{ post.date | date: '%Y' }}">{{ post.date | date: '%Y' }}</h5>
+                <li class="collection-header"><h5 class="scrollspy center" id="year{{ post.date | date: '%Y' }}">{{ post.date | date: '%Y' }}</h5></li>
               {% endif %}
             {% endunless %}
-            <li>
+            <li class = "collection-item">
                 <time>
                 {{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
                 </time>
